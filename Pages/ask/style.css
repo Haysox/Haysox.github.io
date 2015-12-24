@@ -10,26 +10,6 @@ body {
   height:730px;
 }
 
-h1{
-  color:rgb(0, 0, 0)
-   
-}
-
-p1{
-    color:rgb(0, 0, 0);
-    font-size:150%;
-}
-
-p2{
-    color:rgb(0, 0, 0);
-    font-size:70%;
-}
-
-p3{
-   
-    color:rgb(0, 0, 0);
-    font-size:70%;
-}
 
 ul {
     list-style-type: none;
