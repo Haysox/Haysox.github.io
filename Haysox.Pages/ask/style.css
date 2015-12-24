@@ -6,8 +6,12 @@ body {
 }
 
 .box{
-  background-color:rgb(255,255,255);
-  height:730px;
+   background-color:rgb(255,255,255);
+  height:741px;
+  margin-top:9px;
+  margin-bottom:9px;
+  padding-left:9px;
+  padding-right:9px;
 }
 
 

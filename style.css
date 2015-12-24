@@ -7,7 +7,11 @@ body {
 
 .box{
   background-color:rgb(255,255,255);
-  height:730px;
+  height:741px;
+  margin-top:9px;
+  margin-bottom:9px;
+  padding-left:9px;
+  padding-right:9px;
 }
 
 h1{
@@ -26,9 +30,8 @@ p2{
 }
 
 p3{
-   
     color:rgb(0, 0, 0);
-    font-size:70%;
+    font-size:60%;
 }
 
 ul {
